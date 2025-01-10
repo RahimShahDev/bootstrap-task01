@@ -43,7 +43,7 @@
 }
 
 #banner{
-    background: url(../img/Banner.jpg) no-repeat 0;
+    background: url(./img/Banner.jpg) no-repeat 0;
     background-size: cover;
     height:75vh;
 }
@@ -73,7 +73,7 @@
 
 #testmonials{
     color: #fff;
-    background: url(../img/Testmonial.jpg) no-repeat 0;
+    background: url(/img/Testmonial.jpg) no-repeat 0;
     background-size: cover;
     padding: 50px 0px;
     position: relative;
